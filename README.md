@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am currently working on the [Manta project](https://github.com/Manta-Network/).
+And I am [hiring](https://www.linkedin.com/jobs/view/2460670356/)! 
 To find out more about me or get in touch, please visit
 [zhenfeizhang.github.io](zhenfeizhang.github.io)
