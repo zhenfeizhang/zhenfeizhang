@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 
-I am currently working on the [Manta project](https://github.com/Manta-Network/).
-And I am [hiring](https://www.linkedin.com/jobs/view/2460670356/)!  -->
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenfeizhang&count_private=true)](https://github.com/zhenfeizhang/github-readme-stats)
+
 To find out more about me or get in touch, please visit
 [zhenfeizhang.github.io](https://zhenfeizhang.github.io/)
