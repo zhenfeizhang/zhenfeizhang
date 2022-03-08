@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenfeizhang&count_private=true)](https://github.com/zhenfeizhang/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenfeizhang&count_private=true&show_icons=true)](https://github.com/zhenfeizhang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenfeizhang&hide=javascript,html,java,C&layout=compact)](https://github.com/zhenfeizhang/github-readme-stats)
 
 To find out more about me or get in touch, please visit
 [zhenfeizhang.github.io](https://zhenfeizhang.github.io/)
